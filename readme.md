@@ -1,11 +1,11 @@
 <center>
 
 <!--
-![shrimp.svg](icon%2Fshrimp.svg)
 -->
 
+![shrimp.svg](icon%2Fshrimp.svg)
 # Shrimp 🦐
-#### Wanna some invisible roles? 🌌
+#### Discord bot to hide technical roles!
 
 </center>
 
