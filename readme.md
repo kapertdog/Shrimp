@@ -1,19 +1,19 @@
-<center>
-
 <!--
--->
-
 ![shrimp.svg](icon%2Fshrimp.svg)
+-->
+![shrimp.svg](icon%2Fshrimp_se.svg)
 # Shrimp 🦐
-#### Discord bot to hide technical roles!
 
-</center>
+[Discord.py](https://github.com/Rapptz/discord.py]
+Discord) bot to hide technical roles!
 
-## About
-> _soon™_
+Using per-users roles to copy 
+
+## Commands
+> 
 
 ## Invite link
 > not available yet
 
 ## Thanks
-> _soon™_
+> `OgUwU906#8613` for logo design ❤

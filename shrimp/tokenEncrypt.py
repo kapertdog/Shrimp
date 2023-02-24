@@ -4,7 +4,7 @@ import cryptocode
 
 def get(pin: str = ""):
     try:
-        with open("token", "r+", encoding="UTF-8") as file:
+        with open("../token/token", "r+", encoding="UTF-8") as file:
             _token = file.read()
     except Exception as a:
         print(a)
@@ -27,7 +27,7 @@ def create(token: str = ""):
     while not len(pin) >= 4:
         print("It's must be more than 4 characters")
         pin = getpass.getpass("> ")
-    with open("token", "w+", encoding="UTF-8") as file:
+    with open("../token/token", "w+", encoding="UTF-8") as file:
         file.write(cryptocode.encrypt(token, pin))
     return token, pin
 
